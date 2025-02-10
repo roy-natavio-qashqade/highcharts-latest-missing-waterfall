@@ -1,6 +1,7 @@
 # Angular17Highcharts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
+The purpose of this project is to demonstrate the issue of missing waterfall chart of the Highcharts library.
 
 ## Install dependencies
 
